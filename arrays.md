@@ -19,3 +19,6 @@ shift                      | array_shift
 unshift                    | array_unshift
 splice                     | array_splice
 foreach $i (@a) { .. }     | foreach ($a as $i) { .. }
+@a = split( '\|', $s );    | $a = preg_split( '/\|/', $s, -1, PREG_SPLIT_NO_EMPTY );
+@a = split( '\s+', $s );   | $a = preg_split( '/\s+/', $s, -1, PREG_SPLIT_NO_EMPTY );
+$s = join( '|', @a );      | $s = join( '|', $a );
