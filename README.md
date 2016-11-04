@@ -1,6 +1,6 @@
-# perl2php
+# Convert perl to php
 
-Let's Convert perl into php
+Let's Convert perl into php (#perl2php)
 
 
 [Arrays](arrays.md)
@@ -14,3 +14,4 @@ Let's Convert perl into php
 [String Comparisons](stringComparisons.md)
 
 [Functions](functions.md)
+
