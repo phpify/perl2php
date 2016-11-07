@@ -2,7 +2,7 @@
 
 perl                | php
 --------------------|---------------------
-sub foo {\n my @args = @_;\n}                   | function foo() {\n   $args = func_get_args(); \n}
+sub foo {<br> my @args = @_;<br>}                   | function foo() {<br>   $args = func_get_args(); <br>}
  
  
 sub foo {
