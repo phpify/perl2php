@@ -15,3 +15,5 @@ Let's Convert perl into php (#perl2php)
 
 [Functions](functions.md)
 
+[String Matching Operations](stringMatchingOperations.md)
+
