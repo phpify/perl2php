@@ -17,3 +17,10 @@ Let's Convert perl into php (#perl2php)
 
 [String Matching Operations](stringMatchingOperations.md)
 
+[Directories](directories.md)
+
+[Environment Variables](environmentVariables.md)
+
+[POST/GET Parameters](postGetParameters.md)
+
+
