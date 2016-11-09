@@ -23,4 +23,8 @@ Let's Convert perl into php (#perl2php)
 
 [POST/GET Parameters](postGetParameters.md)
 
+[HTML Elements](htmlElements.md)
 
+[URL Encode](urlEncode.md)
+
+[mySQL database access](mysqlAccess.md)
